@@ -10,5 +10,8 @@
 ## Images
 
 ***schematic***
-![sch](https://github.com/uzzambutt/Attiny-85-Custom-rubber-ducky-/blob/main/src/image.webp)
+![sch](https://github.com/uzzambutt/Attiny-85-Custom-rubber-ducky-/blob/main/src/image-4.webp)
+
+***3D Front***
+![fro](https://github.com/uzzambutt/Attiny-85-Custom-rubber-ducky-/blob/main/src/Screenshot_2025-12-05-02-03-53-917_com.discord-edit.jpg)
 
