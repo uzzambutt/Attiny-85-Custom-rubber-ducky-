@@ -1,12 +1,12 @@
 Reference,Qty,Value,Cost,Exclude from BOM,Exclude from Board,Footprint,Source Links
-D1,1,D,3.00,,,,Diode_SMD:D_0603_1608Metric,https://www.aliexpress.com/item/1005003276154390.html
-D2,D3,2,BZV55B3V6,3.00,,,,Diode_SMD:D_MiniMELF,https://www.aliexpress.com/item/1005003276154390.html
-D4,PWR1,2,LED Yellow,2.00,,,,LED_SMD:LED_0805_2012Metric,https://www.aliexpress.com/item/32885825492.html
-J1,1,Conn_01x03_Socket,,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~
-J2,1,Conn_01x06_Socket,,,,,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,~
-J3,1,USB_A,,,,,USBA FOOTPRINT PCB:USB_PCB_connector,~
-R1,1,1.5K,3.00,,,,Resistor_SMD:R_0603_1608Metric,https://www.aliexpress.com/item/1005002991861666.html
-R2,R3,2,68,3.00,,,,Resistor_SMD:R_0603_1608Metric,https://www.aliexpress.com/item/1005002991861666.html
-R4,R5,2,1K,3.00,,,,Resistor_SMD:R_0603_1608Metric,https://www.aliexpress.com/item/1005002991861666.html
-U1,1,MC7805,2.50,,,,Package_TO_SOT_SMD:TO-252-2,https://www.aliexpress.com/item/1005009481715148.html
-U2,1,ATtiny85-20PU,10.00,,,,Package_SO:SOIC-8_5.3x5.3mm_P1.27mm,https://www.aliexpress.com/item/1005007199030119.html
+D1,1,D,3.00,,,Diode_SMD:D_0603_1608Metric,https://www.aliexpress.com/item/1005003276154390.html
+D2,D3,2,BZV55B3V6,3.00,,,Diode_SMD:D_MiniMELF,https://www.aliexpress.com/item/1005003276154390.html
+D4,PWR1,2,LED Yellow,2.00,,,LED_SMD:LED_0805_2012Metric,https://www.aliexpress.com/item/32885825492.html
+J1,1,Conn_01x03_Socket,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~
+J2,1,Conn_01x06_Socket,,,,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,~
+J3,1,USB_A,,,,USBA FOOTPRINT PCB:USB_PCB_connector,~
+R1,1,1.5K,3.00,,,Resistor_SMD:R_0603_1608Metric,https://www.aliexpress.com/item/1005002991861666.html
+R2,R3,2,68,3.00,,,Resistor_SMD:R_0603_1608Metric,https://www.aliexpress.com/item/1005002991861666.html
+R4,R5,2,1K,3.00,,,Resistor_SMD:R_0603_1608Metric,https://www.aliexpress.com/item/1005002991861666.html
+U1,1,MC7805,2.50,,,Package_TO_SOT_SMD:TO-252-2,https://www.aliexpress.com/item/1005009481715148.html
+U2,1,ATtiny85-20PU,10.00,,,Package_SO:SOIC-8_5.3x5.3mm_P1.27mm,https://www.aliexpress.com/item/1005007199030119.html
